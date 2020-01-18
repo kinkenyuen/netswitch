@@ -1,0 +1,9 @@
+Package: com.kinken.netswitch
+Name: NetSwitch
+Depends: mobilesubstrate,preferenceloader
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: kinken
+Author: kinken
+Section: Tweaks
